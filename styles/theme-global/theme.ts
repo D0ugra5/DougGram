@@ -5,11 +5,15 @@ export const theme = extendTheme({
     dougGramColor: {
       backGroundColor: "##fafafa",
       backGroundSecondary: "#ffffff",
-      colorBluePrimary: "#0095f6",
-      colorBlueSecondary: "#81cafb",
+      colorBluePrimary: "#4cb4f8",
+      colorBlueSecondary: "#649ff6",
       borderPrimary: "#dbdbdb",
       borderFocusSelect: "#606770",
       borderSelectInput: "#e4e4e4",
+    },
+
+    othersColors: {
+      facebookColors: "#385185",
     },
   },
 });
